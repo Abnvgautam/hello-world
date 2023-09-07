@@ -1,1 +1,3 @@
-# hello-world
+
+
+Hello, I am Abhinav Gautam and I have a 2 year experience in UI Design. I want to learn more in detail and explore about the concepts in web design. By learning about HTML and CSS I want to style web pages that is both aesthetically pleasing, easy to navigate and responsive across various devices so that the user can have a great experience which is the one of the important part in web designing.
